@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogChronicle xmlns="http://onlinebookemporium.com/schemas/catalog"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://onlinebookemporium.com/schemas/catalog bookstore_catalog_schema.xsd">
+
+    <bookEntry bookIdentifier="BK001" currentAvailabilityStatus="true">
+        <publicationTitleDetail>
+            <displayTitle>Ephemeral Echoes of the Digital Age</displayTitle>
+            <releaseYearChronology>2023</releaseYearChronology>
+        </publicationTitleDetail>
+        <authorIdentityDetail>
+            <penFirstName>Elara</penFirstName>
+            <literaryLastName>Vance</literaryLastName>
+        </authorIdentityDetail>
+    </bookEntry>
+
+    <bookEntry bookIdentifier="BK002" currentAvailabilityStatus="true">
+        <publicationTitleDetail>
+            <displayTitle>The Calculus of Contemporary Cuisine</displayTitle>
+            <releaseYearChronology>2019</releaseYearChronology>
+        </publicationTitleDetail>
+        <authorIdentityDetail>
+            <penFirstName>Jules</penFirstName>
+            <literaryLastName>Roux</literaryLastName>
+        </authorIdentityDetail>
+    </bookEntry>
+
+    <bookEntry bookIdentifier="BK003" currentAvailabilityStatus="false">
+        <publicationTitleDetail>
+            <displayTitle>Quantum Mechanics for the Melancholy</displayTitle>
+            <releaseYearChronology>2021</releaseYearChronology>
+        </publicationTitleDetail>
+        <authorIdentityDetail>
+            <penFirstName>Kiran</penFirstName>
+            <literaryLastName>Sharma</literaryLastName>
+        </authorIdentityDetail>
+    </bookEntry>
+
+</catalogChronicle>
